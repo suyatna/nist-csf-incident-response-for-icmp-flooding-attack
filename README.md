@@ -91,7 +91,7 @@ Proses eskalasi melibatkan tim manajemen insiden dan pihak terkait supaya pengam
 
 ### e. Recover
 
-Ketika serangan DoS berhasil dikendalikan, organisasi masuk ke tahap pemulihan untuk mengembalikan sistem dan layanan jaringan ke kondisi normal. Fokus awal dimulai dengan memastikan seluruh aktivitas berbahaya sudah berhenti dan tidak ada lagi trafik ICMP mencurigakan yang masuk ke jaringan.
+Ketika serangan Denial of Service (DoS) berhasil dikendalikan, organisasi masuk ke tahap pemulihan untuk mengembalikan sistem dan layanan jaringan ke kondisi normal. Fokus awal dimulai dengan memastikan seluruh aktivitas berbahaya sudah berhenti dan tidak ada lagi trafik ICMP mencurigakan yang masuk ke jaringan.
 
 Layanan jaringan yang sempat dihentikan dinyalakan kembali secara bertahap, dimulai dari layanan yang paling krusial untuk operasional bisnis. Setiap tahap pemulihan disertai pemantauan performa jaringan dan kestabilan sistem supaya gangguan lanjutan atau serangan ulang bisa cepat terdeteksi. Konfigurasi firewall, IDS/IPS, dan sistem monitoring yang sudah diperbarui diuji ulang untuk memastikan proteksi berjalan sesuai kebijakan.
 
